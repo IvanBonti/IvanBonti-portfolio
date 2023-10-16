@@ -27,7 +27,7 @@ export function Introduction() {
                             {/* <span className="text-secondary"></span> */}
                             </h1>
                         <p className="max-w-sm  mb-10 text-xl md:max-w-2xl md:mx-0 md:mb-16 md:text-xl">
-                            I'm a dedicated software engineer and a passionate student. You can have more professional information about me by downloading my resume on the button just below this text or visiting my LinkedIn profile on the icon in the upper left corner.
+                        I&apos;m a dedicated software engineer and a passionate student. You can have more professional information about me by downloading my resume on the button just below this text or visiting my LinkedIn profile on the icon in the upper left corner.
                         </p>
 
                         <div className="flex flex-col items-center gap-3 md:gap-10 md:flex-row">
